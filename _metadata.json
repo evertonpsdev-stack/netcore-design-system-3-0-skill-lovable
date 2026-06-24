@@ -1,0 +1,32 @@
+{
+  "owner": "designedbytaiyab",
+  "repo": "Netcore-Design-System-3.0",
+  "description": "Agent skill for Claude, Cursor, and Lovable that enforces the Netcore product design system on every AI-generated UI — Manrope font, brand blue #2F68E5, white inputs, 8px radius, Untitled UI component anatomy with Netcore token overrides.",
+  "homepage": null,
+  "topics": [],
+  "language": null,
+  "stars": 0,
+  "license": null,
+  "defaultBranch": "main",
+  "docsIncluded": [
+    "README.md",
+    "CHANGELOG.md",
+    "SKILL.md",
+    "design-system.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "references/components.md",
+    "references/extended.md",
+    "references/tokens.md",
+    "flows/campaign-creation/figma-nodes.md",
+    "flows/campaign-creation/specs.md"
+  ],
+  "totalRepoFiles": 31,
+  "security": {
+    "risk": "clean",
+    "score": 0,
+    "filesScanned": 10,
+    "findings": [],
+    "summary": "Nenhum padrão suspeito encontrado em 10 arquivos. Continue com revisão manual antes de produção."
+  },
+  "generatedAt": "2026-06-24T14:06:13.149Z"
+}
